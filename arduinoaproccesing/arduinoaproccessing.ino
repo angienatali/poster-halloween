@@ -1,7 +1,5 @@
 //aqui el codigo del aduino//
 #include <Esplora.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_ILI9341.h>
 
 const int buttonPin = Esplora.BUTTON_SELECT; // Botón que se usará para activar la acción
 bool buttonState = false; // Estado del botón
