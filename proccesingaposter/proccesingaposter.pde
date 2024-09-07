@@ -1,6 +1,6 @@
 //aqui va el codigo de proccesing que crea el poster//
 
-mport processing.serial.*;
+import processing.serial.*;
 
 Serial myPort;
 PImage halloweenImage1;
